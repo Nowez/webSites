@@ -3,6 +3,9 @@
     width: auto;
 
   }
+  .header {
+    background-attachment: none;
+  }
 }
 
 hr {
