@@ -1,0 +1,107 @@
+@media (max-width: 960px) {
+  .container {
+    width: auto;
+
+  }
+
+
+
+}
+.container {
+  font-family: sans-serif;
+
+}
+
+header {
+  position: relative;
+  height: 100vh;
+  background-image: url(mtn.jpg);
+  background-size: auto 100vh;
+  background-position: top center;
+  background-attachment: fixed;
+  overflow: hidden
+}
+
+.logo {
+  height: 143px;
+  width: 100%;
+  background-image:url(olte.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  bottom: 50%;
+  margin-bottom: : -71,5px;
+
+
+}
+
+.fg {
+  width: 960px;
+  height: 618px;
+  background-image: url(headphones.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 300px 308px;
+  position: absolute;
+  left: 50%;
+  margin-left: -480px;
+  top: 100px;
+  position: absolute;
+  left: 50%;
+  margin-left: -480px;
+
+}
+
+.mg {
+  width: 960px;
+  height: 1024px;
+  background-image: url(headphonesmg.png);
+  background-repeat: no-repeat;
+  position: top left;
+  background-size: 320px 256px;
+}
+
+.link {
+  text-align: center;
+  font-size: 35px;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+a:hover { color: white; }
+a:active { color: #ff331a; }
+a:visited { color: #ff331a; }
+
+.continer {
+
+    background: white;
+    margin:auto;
+    width:960px;
+    height:1000px;
+}
+
+.content {
+  text-align: center;
+  margin: 0px 50px 25px 50px;
+  font-family: sans-serif;
+  color: #282828;
+  font-size: 14px;
+}
+
+
+h1 {
+  color: #ff331a;
+  font-family: sans-serif;
+  font-size: 75px;
+}
+
+#slogan {
+  position: relative;
+  bottom: 8px;
+  color: white;
+  background: #ff331a;
+  font-size: 13.95px;
+}

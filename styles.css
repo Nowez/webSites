@@ -1,0 +1,78 @@
+h1 {
+    color: orange;
+
+}
+
+#h2toANew{
+  color: orange;
+}
+
+#h3shrinks{
+  color: orange;
+}
+
+}
+
+a:hover { color: blue; }
+a:active { color: red; }
+a:visited { color: orange; }
+
+body {
+    background: orange;
+}
+
+div#wrapper{
+    margin:auto;
+    background:white;
+    width:800px;
+    height:5000px;
+
+}
+
+header{
+
+  display: block;
+
+padding: 0px 0px 70px 0px;
+}
+
+#pugHeader{
+  float: left;
+
+}
+
+#horzNav{
+  display: block;
+  padding: 10px 20px 10px 0px;
+  background: black;
+
+}
+
+#horzNav a{
+  text-decoration: none;
+  padding: 0px 0px 0px 20px;
+  color: white;
+}
+
+main { padding: 10px 20px 20px 0px; }
+
+aside {
+  background: #fc3535;
+
+}
+
+dl {
+  background: gray;
+}
+
+section {
+  background: lightgray;
+}
+
+article {
+  background: #c4c4c4;
+}
+
+#uoListTypes{
+  list-style-type: circle;
+}
