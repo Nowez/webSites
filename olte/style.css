@@ -44,9 +44,11 @@ header {
 }
 
 .logo {
+  
   position: relative;
   bottom: 50px;
   opacity: 100;
+
 }
 
 #slogan {
@@ -57,18 +59,27 @@ header {
   font-size: 13.95px;
 }
 
-.link {
+.links {
+  display: inline-block;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   font-size: 35px;
+
+
+}
+
+.link {
+
 }
 
 .link1 {
+
   position: relative;
   bottom: 150px;
   opacity: 0;
+
 
 }
 
@@ -79,6 +90,8 @@ header {
   font-family: sans-serif;
   color: #282828;
   font-size: 14px;
+
+
 }
 
 .box {
