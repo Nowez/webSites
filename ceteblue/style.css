@@ -1,0 +1,27 @@
+html {
+  background-color: white; }
+
+h1 {
+  color: #1476ff;
+  font-family: monospace;
+  font-size: 40px; }
+
+.container {
+  display: inline-block;
+  text-align: center; }
+
+header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+
+.content {
+  margin: 25px 50px 25px 50px;
+  font-family: monospace;
+  background-color: white; }
