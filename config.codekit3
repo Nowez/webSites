@@ -9,6 +9,157 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/angle\/assets\/css\/framework\/angle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/angle\/assets\/css\/framework\/angle-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/angle\/assets\/css\/framework\/angle.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/angle\/assets\/css\/framework\/angle.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/angle\/assets\/css\/framework\/bootstrap.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/angle\/assets\/css\/framework\/bootstrap-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/angle\/assets\/css\/framework\/framework.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/angle\/assets\/css\/framework\/framework-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/angle\/assets\/css\/framework\/framework.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/angle\/assets\/css\/framework\/framework.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/angle\/assets\/css\/framework\/normalize.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/angle\/assets\/css\/framework\/normalize-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/angle\/assets\/css\/framework\/skeleton.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/angle\/assets\/css\/framework\/skeleton-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/angle\/assets\/css\/style\/core.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/angle\/assets\/css\/style\/core.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/angle\/assets\/css\/style\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/angle\/assets\/css\/style\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/angle\/assets\/css\/style\/style.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/angle\/assets\/css\/style\/style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/angle\/assets\/css\/style\/text.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/angle\/assets\/css\/style\/text.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/angle\/assets\/js\/jquery-3.1.1.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/angle\/assets\/js\/jquery-3.1.1.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/angle\/assets\/js\/script.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/angle\/assets\/js\/script-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/angle\/index.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/angle\/index.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
