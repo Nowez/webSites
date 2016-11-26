@@ -5,14 +5,12 @@ html
     meta(name='description', content='')
     meta(name='keywords', content='ljud, bild')
     meta(name='robots', content='index,follow')
-    link(rel='stylesheet', href='style.css')
-    link(rel="stylesheet", href="skel/normalize.css")
-    link(rel="stylesheet", href="skel/skeleton.css")
+    link(rel='stylesheet', href='assets/css/style/style.css')
+    link(rel="stylesheet", href="assets/css/framework/framework.css")
     base(href='http://williams-macbook-air-2.local:5757/olte/')
-    link(rel='icon', href='images/favicon.ico')
+    link(rel='icon', href='favicon.ico')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
 
-    link(rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-iphone-retina-display.png")
 
   body
     //(onload="alert('Tjenare mannhe välkommen till ICA, oj jag mena Olbitech A_A')")
@@ -23,7 +21,7 @@ html
       header.bg
         .header
           .logo
-            img#logo.item(src='images/olte.jpg', alt='Olbitech Img', width='355', height='101,53')
+            img#logo.item(src='assets/img/olte.jpg', alt='Olbitech Img', width='355', height='101,53')
             h2#slogan.item Ljud och Bild
             // h1>Olbitech</h1
             // img src="ht.jpg" id="bg" alt="speakers" width="75%" height="75%" /
@@ -84,13 +82,16 @@ html
           li mfl.
           hr.inv
 
-        .contact
+      .contact
           h1 Kontaktperson
           p Ove Svalhede
           p 070-6761046
           a.mail(href="mailto:ove@olbitech.se" target="_top") ove@olbitech.se
           hr.inv
           a#pageContact
+          p.left hello
 
-    script(type='text/javascript', src='jquery-3.1.1.min.js')
-    script(type='text/javascript', src='learn-jquery.js')
+
+    script(type='text/javascript', src='assets/jquery-3.1.1.min.js')
+    script(type='text/javascript', src='assets/dist/js/bootstrap.js')
+    script(type='text/javascript', src='assets/js/learn-jquery.js')
