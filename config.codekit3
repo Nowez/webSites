@@ -2493,6 +2493,14 @@
 		"oAP": "\/olte.zip",
 		"oF": 0
 		},
+	"\/olte\/images\/apple-touch-icon-iphone-retina-display.png": {
+		"ft": 32768,
+		"iS": 4079,
+		"oA": 0,
+		"oAP": "\/olte\/images\/apple-touch-icon-iphone-retina-display.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/olte\/images\/bg.jpg": {
 		"ft": 16384,
 		"iS": 621925,
