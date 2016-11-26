@@ -2384,6 +2384,26 @@
 		"oAP": "\/html5.html",
 		"oF": 0
 		},
+	"\/nowez\/css\/normalize.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/nowez\/css\/normalize-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/nowez\/css\/skeleton.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/nowez\/css\/skeleton-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/nowez\/images\/bg.jpg": {
 		"ft": 16384,
 		"iS": 621925,
@@ -2611,6 +2631,36 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/olte\/skel\/normalize.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/olte\/skel\/normalize-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/olte\/skel\/skeleton-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/olte\/skel\/skeleton-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/olte\/skel\/skeleton.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/olte\/skel\/skeleton-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/olte\/style.css": {
 		"aP": 0,
@@ -2857,6 +2907,40 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/Skeleton-2.0.4\/css\/normalize.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/Skeleton-2.0.4\/css\/normalize-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/Skeleton-2.0.4\/css\/skeleton.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/Skeleton-2.0.4\/css\/skeleton-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/Skeleton-2.0.4\/images\/favicon.png": {
+		"ft": 32768,
+		"iS": 1156,
+		"oA": 0,
+		"oAP": "\/Skeleton-2.0.4\/images\/favicon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Skeleton-2.0.4\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Skeleton-2.0.4\/index.html",
+		"oF": 0
 		},
 	"\/styles.css": {
 		"aP": 0,

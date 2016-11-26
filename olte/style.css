@@ -49,10 +49,13 @@ header {
   align-items: center;
   font-size: 35px; }
 
+.link {
+  color: #ff331a; }
+
 .link1 {
   position: relative;
   bottom: 150px;
-  opacity: 0; }
+  opacity: 100; }
 
 .content {
   background-color: white;
@@ -69,13 +72,13 @@ header {
 a {
   position: relative;
   background-color: none;
-  color: #ff331a;
+  color: #282828;
   display: inline-block;
   text-decoration: none;
   text-shadow: 0 0 20px black;
   transition: ease-in-out 300ms; }
   a:hover {
-    transform: tarnslate(0px -5px);
+    transform: translate(0px, -5px);
     text-shadow: 0 10px 20px black; }
 
 h1 {
@@ -86,9 +89,3 @@ h1 {
 .item.is-visible {
   border: 5px solid;
   animation: Items 200ms ease-in forwards; }
-
-.mail {
-  color: #282828;
-  text-shadow: 0px 0px 0px; }
-  .mail:hover {
-    text-shadow: 0px 0px 0px; }
