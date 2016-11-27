@@ -1,0 +1,69 @@
+//*Welcome to angle.sass v.0.1
+//The most basic custom pancake for web developers =D
+//Creator Nowez @NowezYT
+
+//This basic framework has some really simple syntaxes added.
+//Like color and positioning right inside of HTML
+
+//install by adding the angle.css file in your projects folder
+//and adding this line of code
+//<link rel="stylesheet" href="angle.css">
+
+
+
+
+//Colors
+
+.red
+  color: red
+
+.green
+  color: green
+
+.blue
+  color: blue
+
+//Positioning
+
+.tcenter
+  display: inline-block
+  text-align: center
+
+.960center
+  max-width: 960px
+  margin: 0px auto
+
+//Box shadowing
+
+.box-shadow
+  display: inline-block
+  -moz-box-shadow: 0px 10px 20px -5px gray
+  -webkit-box-shadow: 0px 10px 20px -5px gray
+  box-shadow: 0px 10px 20px -5px gray
+  transition: ease-in-out 300ms
+
+
+
+.box-shadow-button
+    display: inline-block
+    cursor: pointer
+    -moz-box-shadow: 0px 10px 20px -5px gray
+    -webkit-box-shadow: 0px 10px 20px -5px gray
+    box-shadow: 0px 10px 20px -5px gray
+    transition: ease-in-out 300ms
+
+    &:hover
+      transform: translate(0px, -5px)
+      -moz-box-shadow: 0px 20px 20px -10px gray
+      -webkit-box-shadow: 0px 20px 20px -10px gray
+      box-shadow: 0px 10px 20px -10px gray
+
+//Invisible stuff
+
+hr.inv
+  border: transparent
+
+.hide
+  display: none
+
+  

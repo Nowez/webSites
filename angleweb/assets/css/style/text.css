@@ -1,0 +1,40 @@
+h1 {
+  color: #505050; }
+
+p {
+  color: #505050; }
+
+a {
+  text-decoration: none;
+  color: #505050;
+  text-shadow: 0px 10px 10px gray;
+  font-size: 20px;
+  transition: ease-in-out 300ms;
+  margin: 30px 30px 30px 30px; }
+  a:hover {
+    font-size: 21px;
+    text-shadow: 0px 15px 15px gray; }
+
+.quotes {
+  font-size: 20px; }
+
+.download {
+  margin: 0px auto;
+  background-color: #00FF62;
+  max-width: 175px;
+  max-height: 100px;
+  padding: 10px 0px 10px 0px;
+  font-size: 20px;
+  box-shadow: 0px 10px 20px -5px gray;
+  margin-bottom: 30px;
+  transition: ease-in-out 300ms; }
+  .download:hover {
+    font-size: 21px;
+    padding: 12px 2px 12px 2px;
+    box-shadow: 0px 15px 20px -10px gray;
+    transition: ease-in-out 300ms; }
+  .download:active {
+    padding: 17px 12px 17px 12px;
+    font-size: 20px;
+    box-shadow: 0px 12px 20px -7px gray;
+    transition: ease-in-out 300ms; }
