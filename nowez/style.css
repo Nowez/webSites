@@ -39,3 +39,12 @@ a {
   a:hover {
     transform: translate(0px, -5px);
     box-shadow: 0px 20px 20px -10px rgba(0, 0, 0, 0.75); }
+
+.link {
+  color: white;
+  font-family: sans-serif; }
+  .link:hover {
+    color: lightgray; }
+  .link:active {
+    color: lightgray;
+    font-style: italic; }

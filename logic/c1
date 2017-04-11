@@ -1,0 +1,28 @@
+[view "Hello" in bold and background]
+comm (name:@comm*43992) {name:*43992} =say
+
+live.format (B22:*12,Keyb:1,Scrn*122) {layer:add{name:*,type:bg*1},{name:*+1,type:text*1+1}}
+
+word.list (name:*1999,type:name+1,star:type+2,star:*2002,column:column*) /
+/ {*(this.line)=column+this.line*,repeat.layer:2{repeat:stop (stop=*1998,*1998=this.line.stop:stop)}}
+
+word.define (name:*1999) {define:name(set.name:word.list*22),(column.execute (name:wordlist) {lines.h:*lines+0,lines.v:*lines+0}}
+name:*1999=wordlist
+column.set (name:wordlist) {place:down,marker:p,marker.define:p+2=line+1}
+
+p live.format:define (name:B22*12,Keyb:1,Scrn:*122) = set.name:port1
+
+p edit.line.true.open (gate.open=name.open=gate>gate.open=mass, mass<mass=mass-,name.mass.open.gate) /
+{gate.open.colsed:add*1999*1999.name.name-open.gate+parameter=*20} -> execute.edit.port.15 (rest) = set.port.15:
+
+p //infinite loops: command + .true, .false, .open, .closed, .mass = infinite second commands
+
+p
+
+p
+
+p
+list.end
+
+set.port.15: (<>) 
+  (name)
