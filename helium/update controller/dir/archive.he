@@ -1,24 +1,16 @@
-[imp //start.he]
-[add //dir/archive.mm3]
-[conv //dir/archive.mm3 w(//at/conv.he) to //start.he]
-(*)
+-imp //start.he
+-add //dir/archive.mm3
+-conv //dir/archive.mm3 w:(*line) to:(//start.he)
+(*line)
 
+-var *lineStart*:(connect://dir/archive.mm3)
+-var *lineEcho*:(echo:(connect://dir/arhcive.mm3))
+-var *lineStop:(calc:{mm3.ver} to:(num))
 
+(*line)
+(*lineStop)
+(*lineEcho)
+(*lineStart)
+(*lineStop)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(*24)
+-var *line*:(*lineStop*,*lineEcho,*lineStart*,*lineStop*)

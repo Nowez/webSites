@@ -3068,6 +3068,24 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/helium\/helium info\/helium info": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/helium\/helium info\/helium info",
+		"oF": 0
+		},
+	"\/helium\/intro\/helium info": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/helium\/intro\/helium info",
+		"oF": 0
+		},
+	"\/helium\/mm3 Info\/mm3 info": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/helium\/mm3 Info\/mm3 info",
+		"oF": 0
+		},
 	"\/helium\/update controller\/at\/conv.he": {
 		"ft": 8192,
 		"oA": 2,
@@ -3098,10 +3116,10 @@
 		"oAP": "\/helium\/update controller\/info\/ver.mm3",
 		"oF": 0
 		},
-	"\/helium\/update controller\/start.he": {
+	"\/helium\/update controller\/system.he": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/helium\/update controller\/start.he",
+		"oAP": "\/helium\/update controller\/system.he",
 		"oF": 0
 		},
 	"\/htdocs\/_notes\/dwsync.xml": {
