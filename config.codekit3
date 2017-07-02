@@ -3086,16 +3086,10 @@
 		"oAP": "\/helium\/mm3 Info\/mm3 info",
 		"oF": 0
 		},
-	"\/helium\/update controller\/at\/conv.he": {
+	"\/helium\/update controller\/conf\/ver.mm3": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/helium\/update controller\/at\/conv.he",
-		"oF": 0
-		},
-	"\/helium\/update controller\/at\/conv.mm3": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/helium\/update controller\/at\/conv.mm3",
+		"oAP": "\/helium\/update controller\/conf\/ver.mm3",
 		"oF": 0
 		},
 	"\/helium\/update controller\/dir\/archive.he": {
@@ -3110,10 +3104,22 @@
 		"oAP": "\/helium\/update controller\/dir\/archive.mm3",
 		"oF": 0
 		},
-	"\/helium\/update controller\/info\/ver.mm3": {
+	"\/helium\/update controller\/dir\/conv.he": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/helium\/update controller\/info\/ver.mm3",
+		"oAP": "\/helium\/update controller\/dir\/conv.he",
+		"oF": 0
+		},
+	"\/helium\/update controller\/dir\/conv.mm3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/helium\/update controller\/dir\/conv.mm3",
+		"oF": 0
+		},
+	"\/helium\/update controller\/system.he": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/helium\/update controller\/system.he",
 		"oF": 0
 		},
 	"\/htdocs\/_notes\/dwsync.xml": {
