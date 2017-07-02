@@ -1,8 +1,17 @@
+-ping (system response 0000) for (load system)
+
 [ver //info/ver.mm3]
-[type preferences:1]
-(dynamic controller:1)
-(power saving:0)
-(power utilization:2(add power x 2 + data(conv (//dir/archive.he))))
-(gui infobox:2(add num:1))
+[type preferences 1]
+
+dynamic controller 1]
+[power saving 0]
+[power utilization 2 (add power x 2 + data conv //dir/archive.he)]
+[gui infobox 2 (add num 1)]
+
+-ping (system response 1515) to (save progress)
+
+-var stop = (remove) num (all) but (*systemStart)
 
 -var on = (power) to (power) add (current)
+
+-var off = (power) for (remove) to (*stop)

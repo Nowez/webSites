@@ -1,11 +1,12 @@
 -imp //start.he
 -add //dir/archive.mm3
--conv //dir/archive.mm3 w:(*line) to:(//start.he)
+-conv //dir/archive.mm3 w (*line) to (//start.he)
+
 (*line)
 
--var *lineStart*:(connect://dir/archive.mm3)
--var *lineEcho*:(echo:(connect://dir/arhcive.mm3))
--var *lineStop:(calc:{mm3.ver} to:(num))
+-var lineStart (connect //dir/archive.mm3)
+-var lineEcho (echo (connect //dir/arhcive.mm3))
+-var lineStop (calc {mm3.ver} to (num))
 
 (*line)
 (*lineStop)
@@ -13,4 +14,11 @@
 (*lineStart)
 (*lineStop)
 
--var *line*:(*lineStop*,*lineEcho,*lineStart*,*lineStop*)
+-var line (*lineStop *lineEcho *lineStart *lineStop)
+
+" The @ credits the system file that is always located in the // directory.
+In this way you just need to write "system" instead of //system.he. "
+
+(*line @ system)
+
+"We will now ping the system and echo a response to convert the file and save progress."
