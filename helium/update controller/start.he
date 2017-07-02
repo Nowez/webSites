@@ -1,8 +1,0 @@
-[ver //info/ver.mm3]
-[type preferences:1]
-(dynamic controller:1)
-(power saving:0)
-(power utilization:2(==add power x 2 + data(==conv [//dir/archive.he])))
-(gui infobox:2(==add num:1))
-
--var on = (power) to (power) add (current)
